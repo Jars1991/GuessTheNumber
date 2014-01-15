@@ -1,7 +1,7 @@
 GuessTheNumber
 ==============
 
-Este programa es una simple implementaciÃ³n del juego guess the number en Python 3.3.2, donde la PC tomara el papel de estar generando un numero aleatorio en un cierto rango predefinido y estarÃ¡ pidiendo que el jugador adivine el numero y mostrando mensajes dependiendo si el numero proporcionado por el jugador es menor, mayor o correcto, claro que para poder ganar tiene que lograrlo en el numero de intentos predefinidos el cual fue calculado en base al algoritmo de bÃºsqueda binaria.
+Este programa es una simple implementación del juego guess the number en Python 3.3.2, donde la PC tomara el papel de estar generando un numero aleatorio en un cierto rango predefinido y estará pidiendo que el jugador adivine el numero y mostrando mensajes dependiendo si el numero proporcionado por el jugador es menor, mayor o correcto, claro que para poder ganar tiene que lograrlo en el numero de intentos predefinidos el cual fue calculado en base al algoritmo de búsqueda binaria.
 
 **Created by** Jassael Ruiz
 
